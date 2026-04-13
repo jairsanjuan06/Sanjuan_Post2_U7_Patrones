@@ -1,5 +1,6 @@
 package com.example.hexagonal.adapter.out.persistence;
 
+
 import com.example.hexagonal.domain.model.Producto;
 import com.example.hexagonal.domain.port.out.ProductoRepositoryPort;
 import org.springframework.stereotype.Component;
